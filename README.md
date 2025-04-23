@@ -53,6 +53,7 @@ Para acessar a interface administrativa do RabbitMQ e visualizar as filas, vá a
 - Enviar notificações via Amazon SNS.
 - Integração com entidades de domínio como `Proposta` e `Usuario`.
 - Configuração desacoplada para AWS e RabbitMQ.
+- TODO: Implementação do tratamento de falhas e reintentos para mensagens não processadas.
 
 ---
 
@@ -81,5 +82,6 @@ Para acessar a interface administrativa do RabbitMQ e visualizar as filas, vá a
 [![Spring Boot](https://img.shields.io/badge/spring--boot-3.2.0-brightgreen)](https://spring.io/projects/spring-boot)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](LICENSE)
 [![Build](https://img.shields.io/badge/build-Maven-blue)](https://maven.apache.org/)
-[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]()
+[![Status](https://img.shields.io/badge/status-finalizado-brightgreen)]()
+
 
