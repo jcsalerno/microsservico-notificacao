@@ -18,4 +18,6 @@ public class PropostaPendenteListener {
         notificacaoSnsService.notificar(proposta.getUsuario().getTelefone(), mensagem);
 
     }
+
+    // IMPLEMENTAR PROPOSTA CONCLUIDA MS NOTIFICAÇÃO
 }
